@@ -2,4 +2,4 @@
 
 - swift build
 
--.build/debug/vaporExample
+- .build/debug/vaporExample
